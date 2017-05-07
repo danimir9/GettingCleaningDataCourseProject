@@ -1,13 +1,11 @@
+---
+title: "README.md"
+---
+Getting and Cleaning Data Course Project. Coursera.org
 ==================================================================
-Getting and Cleaning Data Course Project
-Coursera.org
-==================================================================
-Dani Mir Montserrat
-==================================================================
-
 
 The Repo includes the following files:
-=========================================
+--------------------------------------
 
 - 'README.md': readme file.
 - 'CodeBook.md': codebook with all the variables and summaries calculated.
