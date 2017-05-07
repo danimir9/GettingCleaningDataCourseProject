@@ -1,4 +1,4 @@
-Getting and Cleaning Data Course Project. Coursera.org
+README.md
 ==================================================================
 
 The Repo includes the following files:
